@@ -1,0 +1,16 @@
+{
+	"Columns": {
+		"prefix": "columns",
+		"body": [
+			":::::::::::::: {.columns}",
+			"::: {.column width=\"${1:50}%\"}",
+			"$3",
+			":::",
+			"::: {.column width=\"${2:50}%\"}",
+			"$4",
+			":::",
+			"::::::::::::::"
+		  ],
+		  "description": "For Loop"
+	}
+}
